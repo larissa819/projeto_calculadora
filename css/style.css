@@ -1,0 +1,16 @@
+.cal * { 
+    margin:0; 
+    padding:0;
+    border:0;
+    font-size:500%;
+    font:inherit; 
+    vertical-align:baseline;
+    text-align: center;
+}
+
+button{
+    height: 35.1px;
+    width: 100px;
+    border-radius: 10px;
+}
+
